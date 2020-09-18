@@ -1,4 +1,0 @@
-swagger:
-  publish:
-    publish-url: https://demo-rest-java.herokuapp.com/swagger/publish/1027
-    swagger-url: http://127.0.0.1:${server.port}/persons/api-docs

@@ -58,11 +58,6 @@
 			<version>3.0.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.keyholesoftware</groupId>
-			<artifactId>khs-spring-boot-publish-swagger-starter</artifactId>
-			<version>1.0.0</version>
-		</dependency>	
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
